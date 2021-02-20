@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "1ee77768a6ef1259",
+    "type": "split",
+    "children": [
+      {
+        "id": "acde2b08992d27e2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "List of Tasks.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d302acc770320cb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "94e73fc006917b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae6352b187ebd843",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f720b501b85e1428",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "process n",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "181d5a4b3f679b79",
+    "type": "split",
+    "children": [
+      {
+        "id": "0153ae9aec04c756",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e860b302241baff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "List of Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "List of Tasks.md",
+    "How to Get Motivated.md",
+    "Create Deadlines.md",
+    "An article on procrastination.pdf",
+    "Procrastination.md",
+    "Hard Start.md",
+    "Process Not Product.md",
+    "Mindset.md",
+    "Cultivate Good Habits.md",
+    "Neuromodulatorsp.md"
+  ]
+}

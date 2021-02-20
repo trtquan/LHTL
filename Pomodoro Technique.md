@@ -1,0 +1,3 @@
+![[Pasted image 20210218104853.png]]
+
+Research has shown that the effects of [procrastination](https://trello.com/c/09OtwwLO/12-procrastination) in our brain are similar to those of pain, but fortunately, that **neural discomfort vanishes away as soon as we start doing the task we should be doing**. So, taking this into account, it's easy to see how the Pomodoro Technique goes in line with this research by **easing the barrier to start the task given that we know that we just have to work for 25 minutes**, and that's quite doable for anyone.
